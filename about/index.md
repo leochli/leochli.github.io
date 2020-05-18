@@ -6,19 +6,13 @@ date: 2016-03-21
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><b>Leo Chenghui Li</b></center>
+
+I am an incoming Research Engineer at <a href=https://research.fb.com/category/augmented-reality-virtual-reality>Facebook Rreality Labs</a>.
+
+I am currently a master student at Carnegie Mellon University, supervised by <a href=https://>Prof. Pei Zhang</a>. I received my B.Sc degree in Mathematics & Information Engineering from <a href=> The Chinese University of Hong Kong</a>, where I was supervised by <a href=https://www.ee.cuhk.edu.hk/~xgwang/>Prof. Xiaogang Wang</a> and <a href=https://zhzhanp.github.io>Dr. Zhanpeng Zhang</a>
 
 ## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
 
 ## Preview
 
