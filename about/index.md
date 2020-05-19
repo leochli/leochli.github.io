@@ -2,22 +2,19 @@
 layout: page
 title: About Me
 tags: [about]
-date: 2016-03-21
+date: 2020-05-18
 comments: false
 ---
-    
-<center><b>Leo Chenghui Li</b></center>
+![leo](https://user-images.githubusercontent.com/25040724/82273114-6b3f9e00-9931-11ea-9664-1d8c7f80e7de.png)
+<center><b>Me at Horseshoe Bend</b></center>
 
-I am an incoming Research Engineer at <a href=https://research.fb.com/category/augmented-reality-virtual-reality>Facebook Rreality Labs</a>.
+## Up-to-date status
+I am an incoming Research Engineer at [Facebook Rreality Labs](https://research.fb.com/category/augmented-reality-virtual-reality)
 
-I am currently a master student at Carnegie Mellon University, supervised by <a href=https://>Prof. Pei Zhang</a>. I received my B.Sc degree in Mathematics & Information Engineering from <a href=> The Chinese University of Hong Kong</a>, where I was supervised by <a href=https://www.ee.cuhk.edu.hk/~xgwang/>Prof. Xiaogang Wang</a> and <a href=https://zhzhanp.github.io>Dr. Zhanpeng Zhang</a>
+I am currently a master student at Carnegie Mellon University, supervised by [Prof. Pei Zhang](https://users.ece.cmu.edu/~peizhang/). I received my B.Sc degree in Mathematics & Information Engineering from **The Chinese University of Hong Kong**, where I was supervised by [Prof. Xiaogang Wang](https://www.ee.cuhk.edu.hk/~xgwang) and [Dr. Zhanpeng Zhang](https://zhzhanp.github.io).
 
-## Features
+## My profession interests
+Machine Learning Platform, Deep Learning Acceleration, Computer Vision, GPU optimization.
 
-## Preview
-
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+## My amateur interests
+A bit of everything: guitar beginner, photography beginner, Xbox games...
