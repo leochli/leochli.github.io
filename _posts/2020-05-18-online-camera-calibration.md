@@ -2,8 +2,7 @@
 layout: post
 title:  "Online Camera-LiDAR Calibration with Sensor Semantic Information"
 date:   2020-05-18
-excerpt: "Yufeng Zhu, Chenghui Li, Yubo Zhang\n
-International Conference on Robotics and Automation 2020, Paris"
+excerpt: "Yufeng Zhu, Chenghui Li, Yubo Zhang (ICRA 2020, Paris)"
 project: true
 tag:
 - blog
@@ -11,8 +10,11 @@ tag:
 comments: false
 ---
 
+![image](https://user-images.githubusercontent.com/25040724/82277149-063d7580-993c-11ea-84ef-94b937e3c299.png)
+<center>Our sensors setup is composed of multiple RGB camera and LiDAR devices mounted to the roof of autonomous vehicle.</center>
+
 ## About this project
-I conducted this project with [Yufeng Zhu](https://mike323zyf.github.io/) and [Yubo Zhang](https://www.linkedin.com/in/yubo-zhang-0369659/)  when I was an intern at `Pony.AI` in 2019 summer.
+I conducted this project with [Yufeng Zhu](https://mike323zyf.github.io/) and [Yubo Zhang](https://www.linkedin.com/in/yubo-zhang-0369659/)  when I was an intern at PonyAI in 2019 summer.
 
 ## Intro
 
